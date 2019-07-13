@@ -1,0 +1,17 @@
+disabledAI = 1;	
+
+#include "VVS\menu.h"
+
+class CfgFunctions {
+    #include "cau\userinputmenus\CfgFunctions.cpp"
+	#include "VVS\Functions.h"
+};
+
+#include "cau\userinputmenus\controls.cpp"
+#include "cau\userinputmenus\systems\_macros.inc"
+#include "cau\userinputmenus\systems\_defines.inc"
+#include "cau\userinputmenus\systems\displayGuiMessage.cpp"
+#include "cau\userinputmenus\systems\displayListbox.cpp"
+#include "cau\userinputmenus\systems\displaySlider.cpp"
+#include "cau\userinputmenus\systems\displayText.cpp"
+#include "cau\userinputmenus\systems\displayTextMulti.cpp"
