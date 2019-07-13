@@ -2,9 +2,9 @@
 A Sector Control Mission for arma 3 
 
 # Credit
-I did not witre all of this i did use some public scripts.
-Used: 
-https://github.com/ConnorAU/A3UserInputMenus
+I did not witre all of this i did use some public scripts.                                    
+Used:                                           
+https://github.com/ConnorAU/A3UserInputMenus                                   
 http://www.armaholic.com/page.php?id=23021
 
 
