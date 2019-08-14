@@ -1,7 +1,7 @@
 # Arma 3 | Sector-Control
 A Sector Control Mission for arma 3 
 
-# Plese Note
+# Please Note
 This mission is not finished. I still want to do some work to but i thought to realse it as someone may find it use full.
 
 # Credit
