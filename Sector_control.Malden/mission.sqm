@@ -175,7 +175,7 @@ class Mission
 	assetType="Free";
 	class Intel
 	{
-		briefingName="GNUG Official | Sector Control";
+		briefingName="Sector Control";
 		resistanceWest=0;
 		timeOfChanges=1800.0002;
 		startWeather=0.30000001;
