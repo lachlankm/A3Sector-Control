@@ -11,9 +11,9 @@ Earplugs_key        = 0x07; // key 6
   if(_key isEqualto Earplugs_key) then { 
  
    
-   private _vol = soundVolume - 0.25; 
-   if (_vol < 0) then {_vol = 1}; 
-   1 fadeSound _vol; 
+   private _sound = soundVolume - 0.10; 
+   if (_sound < 0) then {_vol = 1}; 
+   1 fadeSound _sound; 
    titleText [format["Sound levels adjusted to %1%2",_vol*100,"%"],"PLAIN DOWN"]; 
    
    
