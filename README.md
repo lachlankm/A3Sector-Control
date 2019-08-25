@@ -13,3 +13,6 @@ http://www.armaholic.com/page.php?id=23021
 
 # My Website
 lachlankm.com
+
+# My Disord 
+https://discord.gg/vz5XWGM
