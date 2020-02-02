@@ -1,21 +1,21 @@
-MIT License
+Copyright (c) 2020 lachlankm
 
-Copyright (c) 2019 lachlankm
+A :: You are allowed to:
+  1. Read the code to learn yourself
+  2. redistribute the Mission via a server.
+  3. Modify the code. (Conditions must be followed as well.)
+  
+B :: You are NOT allowed to:
+  1. Use the mission for commercial purposes
+  
+C :: Conditions of use:
+    1. A copy of this license must be included with all distributions of the material
+    2. All credit attribution to the original author must remain unmodified
+    3. If you modify this material, you must:
+        3.1. Indicate the material is modified
+        3.2. Disclose the source material
+        3.3. Release the modified material under the same license terms
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+D :: Disclaimer:
+  This material is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the material or the use or other dealings in the material.
